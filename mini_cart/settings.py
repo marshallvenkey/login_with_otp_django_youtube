@@ -25,7 +25,7 @@ SECRET_KEY = 'azsd$g96j__^_u-j)tz--)0e17@jjk&@ls0+ofrces)pl%l)2('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nzbsports.online', 'www.nzbsports.online', '163.245.218.146']
 
 
 # Application definition
